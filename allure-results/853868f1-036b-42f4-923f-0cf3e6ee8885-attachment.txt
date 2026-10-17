@@ -1,0 +1,2 @@
+Web Page Title is: JavaScript Tutorial
+URL of the web page is: https://www.w3schools.com/js/default.asp
