@@ -1,0 +1,2 @@
+{ token: '33bb192201acf1c' }
+We Get the Bearer Token is 33bb192201acf1c

@@ -1,0 +1,9 @@
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz 693
+{
+  firstname: 'Jim',
+  lastname: 'Jackson',
+  totalprice: 118,
+  depositpaid: false,
+  bookingdates: { checkin: '2022-02-16', checkout: '2022-08-01' },
+  additionalneeds: 'Breakfast'
+}
